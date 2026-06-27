@@ -4,7 +4,6 @@ A fully featured, terminal-based **Point of Sale (POS) system** built with pure 
 
 ![Java](https://img.shields.io/badge/Java-23%2B-orange?style=flat-square&logo=openjdk)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 ---
@@ -201,12 +200,6 @@ Contributions are welcome!
 3. Commit your changes (`git commit -m 'Add your feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
