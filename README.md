@@ -206,8 +206,8 @@ Contributions are welcome!
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/YathavanJD/)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/yathavan-loganathan03/)
+- GitHub: [@YathavanJD](https://github.com/YathavanJD/)
+- LinkedIn: [Yathavan_Loganathan](https://www.linkedin.com/in/yathavan-loganathan03/)
 
 ---
 
